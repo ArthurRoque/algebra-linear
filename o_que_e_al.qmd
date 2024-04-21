@@ -1,0 +1,3 @@
+# O que é a Álgebra Linear?
+
+$\hspace{20px}$O estudo da Álgebra Linear nada mais é do que aplicar ao estudo algébrico ferramentas geométricas. Toda a extensa gama de técnicas e cálculos de álgebra linear são desenvolvidos para esse fim. Considere, por exemplo, o sistema a seguir.
